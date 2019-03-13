@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/profile"
+    android:background="#000"
+    android:orientation="horizontal"
+    android:padding="20dp">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginRight="12dp"
+        android:id="@+id/userProfileImage"
+        android:background="@drawable/smily" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+        <TextView
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:id="@+id/userNameHead"
+            android:text="Pushpendra Kumar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_marginTop="4dp"
+            android:textSize="14sp"
+            android:textColor="#fff"
+            android:id="@+id/userMailIdHead"
+            android:text="Pushpendra@abes.ac.in"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        
+        
+        
+    </LinearLayout>
+
+</LinearLayout>

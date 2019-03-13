@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">College</string>
+    <string name="open">Open</string>
+    <string name="Close">Close</string>
+
+    <string name="AboutUs">ABESEC is the leading institution in AKTU. It has achieved excellence in
+        academics by consistently securing the First position for consecutively 6 semesters in
+        University academic result. The placement records for the year 2017-18 are the highest with
+        1200+ job offers for Engineering and Management students.
+
+        Mr. Ved Prakash Goel, founder of the institution started this journey in 1999 with a belief
+        to provide the best quality of education to young minds in Technology and Management. The
+        ABESEC family welcomes the students with a promise to deliver the best guidance to shape
+        their career.
+    </string>
+    <string name="coreValue">“We at ABESEC believe in laying down a concrete foundation for our budding technocrats. Current scenario demands innovation, creativity, continuous improvement and ideas worth making our lifestyle easier here. We strongly believe in these values and urge the stakeholders to abide by them!”</string>
+    <string name="vision">To take the ABES Engineering College by the year 2020 to such a level that it is an equal partner of the other leading institutions of the world to provide leadership to the international education system and is rated as one of the top world institutions which produces world-class competent and dedicated technical and managerial human resource embedded in traditional Indian values and positive attitudes.</string>
+    <string name="mission"> 1.To create an ambiance for healthy teaching-learning process.\n
+                            2.To nurture the students and infuse in them \n
+                            ->A passion to excel professionally\n
+                            ->A spirit to be of utmost use to the industry, corporate sector and the society at large\n
+                            ->An intense desire to take challenging responsibilities and leadership roles\n
+                            ->A craving to be wholesome good human beings\n
+                            3.To develop an environment for creating new knowledge through research and by thriving to explore innovative ideas.</string>
+    <string name="qualityPolicy">To continuously thrive to provide a congenial and wholesome academic environment and a healthy culture for faculty, staff and students which would motivate teachers’ full participation with passion and develop an intense desire in the students to acquire comprehensive education and hence become a useful and confident human resource for the industry and academia.</string>
+    <string name="placement">807 out of 873 eligible/registered students offered in 364 companies.\n
+                             Highest Package offered was INR 14.50 LPA.</string>
+
+    <string name="btech">ABES Engineering College offers a four year degree program in Bachelor of Technology affiliated from Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow with University Campus No. (College Code) – 032 and is approved by All India Council of Technical Education (AICTE).</string>
+    <string name="mtech">ABES Engineering College offers two years regular M.Tech program with three specialization and affiliated from Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow with University Campus No. (College Code) – 032 and is approved by All India Council of Technical Education (AICTE).
+
+M.Tech in Computer Science and Engineering (for CS and IT related branch students)
+M.Tech in Electronics and Communication Engineering (for ECE and related branch students)
+M.Tech Mechanical Engineering (for ME and related branch students)</string>
+
+</resources>

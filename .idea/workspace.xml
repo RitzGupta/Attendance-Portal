@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab6148e2-1cb3-4b61-b5e1-bbec9524b3cf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="344627100">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Chat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../FirebaseRealtimeDatabase" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Pathasalaa" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../PostJson" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../RecyclerViewProject" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SQLiteCRUDExample" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../YoutubeList" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../YoutubeTutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../home_page/home_page" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../new" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ud851-Exercises-student/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../youtubetutorials" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Caldroid" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/ItemAnimation" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/New_home_page/Attendance-Portal-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/home_page/home_page" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Compressed/Caldroid" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Compressed/Nipun-App-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Programs/Nipun-App" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Programs/iosched-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Music/Sunshine2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Pathasalaa" value="PREVIEW" />
+        <entry key="$USER_HOME$/Study/Android/Android_Pro_Chat" value="PREVIEW" />
+        <entry key="$USER_HOME$/Study/Android/BlogApp" value="PREVIEW" />
+        <entry key="$USER_HOME$/Study/Android/FirebaseAuthDemo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Study/Android/MyApplication5" value="PREVIEW" />
+        <entry key="$USER_HOME$/Videos/Nipun-App" value="PREVIEW" />
+        <entry key="$USER_HOME$/youtubetutorials" value="PREVIEW" />
+        <entry key="/run/media/Ritik-Gupta/283cd978-719c-425d-947e-72e6c59e4b94/Ritik_Gupta/AndroidStudioProjects/MyApplication" value="PREVIEW" />
+        <entry key="/run/media/Ritik-Gupta/283cd978-719c-425d-947e-72e6c59e4b94/Ritik_Gupta/Study/Android/RecyclerViewProject" value="PREVIEW" />
+        <entry key="/run/media/Ritik-Gupta/283cd978-719c-425d-947e-72e6c59e4b94/Ritik_Gupta/Study/Android/Signin And LogIn/firebase-authentication" value="PREVIEW" />
+        <entry key="/run/media/Ritik-Gupta/283cd978-719c-425d-947e-72e6c59e4b94/Ritik_Gupta/Study/Android/YoutubeTutorial" value="PREVIEW" />
+        <entry key="/run/media/Ritik-Gupta/283cd978-719c-425d-947e-72e6c59e4b94/Ritik_Gupta/Study/Program/Pathasalaa" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="28" />
+    <option name="width" value="1366" />
+    <option name="height" value="706" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab6148e2-1cb3-4b61-b5e1-bbec9524b3cf" name="Default Changelist" comment="" />
+      <created>1552498282198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552498282198</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1366" height="706" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32928678" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.33156028" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

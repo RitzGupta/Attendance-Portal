@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/deshboard"
+        android:icon="@drawable/dashboard_black_24x24"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/attendance"
+        android:icon="@drawable/attendance"
+        android:title="Attendance" />
+    <item
+        android:id="@+id/marks"
+        android:icon="@drawable/marks"
+        android:title="Marks" />
+    <item
+        android:id="@+id/mentors"
+        android:icon="@drawable/mentors"
+        android:title="Mentors" />
+    <item
+        android:id="@+id/timetable"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:title="Time Table" />
+    <item
+        android:id="@+id/academiccalender"
+        android:title="Academic Calender"
+        android:icon="@drawable/academic_calender"/>
+    <item
+        android:id="@+id/creativecell"
+        android:icon="@drawable/creativecell"
+        android:title="Creative Cell" />
+
+    <item
+        android:title="Fee Reciept"
+        android:icon="@drawable/feereciept"
+        android:id="@+id/feereciept"/>
+    <item
+        android:title="Student Grievance"
+        android:id="@+id/studentgrievence"
+        android:icon="@drawable/studentgrivance"
+        />
+    <item
+        android:title="About"
+        android:id="@+id/about"
+        android:icon="@drawable/aboutus"
+        />
+    <item
+        android:icon="@drawable/logout"
+        android:id="@+id/logout"
+        android:title="Logout"/>
+</menu>
