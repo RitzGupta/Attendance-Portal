@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()) {
 
             case R.id.cvAbout:
-                Intent intentAbout = new Intent(MainActivity.this, AboutUs.class);
+                Intent intentAbout = new Intent(MainActivity.this, Home_Page.class);
                 startActivity(intentAbout);
                 break;
             case R.id.cvAdmission:

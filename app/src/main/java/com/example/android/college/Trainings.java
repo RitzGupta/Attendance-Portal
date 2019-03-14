@@ -15,15 +15,15 @@ public class Trainings extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_trainings);
 
-        pythonTraining = (CardView)findViewById(R.id.cvPython);
+        pythonTraining = (CardView) findViewById(R.id.cvPython);
 
-       pythonTraining
-               .setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent python = new Intent(Trainings.this,PythonTraining.class);
-                startActivity(python);
-            }
-        });
+        pythonTraining
+                .setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        Intent python = new Intent(Trainings.this, PythonTraining.class);
+                        startActivity(python);
+                    }
+                });
     }
 }
